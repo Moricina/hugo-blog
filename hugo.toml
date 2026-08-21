@@ -1,7 +1,6 @@
 baseurl = "https://hugo-papermod-alg.pages.dev/"
 languageCode = "zh-cn"
 title = "我的技术博客"
-theme = "hugo-theme-stack"
 
 [params]
   mainSections = ["post"]
