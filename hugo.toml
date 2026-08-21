@@ -10,7 +10,7 @@ title = "Aurora的博客"
 
   [params.sidebar]
     emoji = "🔐"
-    subtitle = "记录生活~"
+    subtitle = "记录生活"
     avatar = "img/avatar.png"
 
   [params.article]
