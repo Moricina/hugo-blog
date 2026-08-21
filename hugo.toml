@@ -40,4 +40,4 @@ title = "Aurora的博客"
     name = "文章"
     url = "/post/"
     weight = 10
-    params.icon = "book-open"
+    params.icon = "home"
