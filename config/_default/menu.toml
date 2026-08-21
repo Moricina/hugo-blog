@@ -3,4 +3,4 @@
     name = "文章"
     url = "/post/"
     weight = 10
-    params.icon = "book-open"
+    params.icon = "home"  # ← 改为 home 图标
