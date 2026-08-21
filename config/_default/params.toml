@@ -21,7 +21,7 @@ SortBy = "date"
     headingAnchor = false
     math = false
     readingTime = true
-    license = false
+    licenseEnabled = false  # ← 关键修复
 
 [widgets]
     homepage = [
