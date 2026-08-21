@@ -10,7 +10,7 @@ title = "我的技术博客"
 
   [params.sidebar]
     emoji = "🔐"
-    subtitle = "记录技术与思考"
+    subtitle = "记录技术与思考~"
     avatar = "img/avatar.png"
 
   [params.article]
