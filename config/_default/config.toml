@@ -1,0 +1,15 @@
+baseurl = "https://hugo-papermod-alg.pages.dev/"
+locale = "zh-cn"
+title = "我的技术博客"
+
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = false
+
+hasCJKLanguage = true
+
+paginate = 5
+summaryLength = 30
+
+[services]
+  [services.disqus]
+    shortname = ""

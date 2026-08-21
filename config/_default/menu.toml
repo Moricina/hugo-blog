@@ -1,0 +1,6 @@
+[[main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/post/"
+    weight = 10
+    params.icon = "book-open"
